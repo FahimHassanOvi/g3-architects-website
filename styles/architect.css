@@ -211,6 +211,7 @@ main {
     padding: 38px 410px;
     font-size: 1.25rem;
     font-weight: 400;
+    text-align: center;
 }
 
 /* responsive media queries */
